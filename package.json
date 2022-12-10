@@ -1,0 +1,15 @@
+{
+  "name": "markdown-presentation-marp",
+  "version": "1.0.0",
+  "description": "Document de présentation réalisé avec un fichier Markdown",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celineandre/markdown-presentation-marp.git"
+  },
+  "author": "Céline André",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celineandre/markdown-presentation-marp/issues"
+  },
+  "homepage": "https://github.com/celineandre/markdown-presentation-marp#readme"
+}
