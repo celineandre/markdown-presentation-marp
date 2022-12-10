@@ -14,5 +14,8 @@
   "homepage": "https://github.com/celineandre/markdown-presentation-marp#readme",
   "devDependencies": {
     "@marp-team/marp-cli": "^2.2.2"
+  },
+  "marp": {
+    "themeSet": "./themes"
   }
 }
