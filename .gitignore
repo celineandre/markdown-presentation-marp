@@ -1,2 +1,7 @@
 # Dependency package.json
 node_modules/
+
+# Export files
+*.html
+*.pptx
+*.pdf
